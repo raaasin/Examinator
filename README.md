@@ -1,3 +1,2 @@
-# examsystem
-This is a 2 way Admin, User system. Where the Admin can enter questions etc and the student is evaluated based on the pool of questions provided by the admin.
-The admin can also view the results later through admin portal.
+# Examinator
+Examinator is a quiz based exam system that was made as a part of High school project, based on python using libraries like Pandas to import CSV database and Random to randomize the question order. It is designed to support Attending of tests and Addition of new questions through Admin and Attendee interface.
