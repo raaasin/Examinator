@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Firebase initialization
 cred = credentials.Certificate('firebase_config.json')
-firebase_admin.initialize_app(cred, {'databaseURL': ''})
+firebase_admin.initialize_app(cred, {'databaseURL': 'example'})
 
 # Routes
 @app.route('/')
